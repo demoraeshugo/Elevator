@@ -1,5 +1,12 @@
 # Elevator
 
-Built in C++
+C++ "Elevator" simulated using a doubly linked list data structure 
 
-Program that simulates an elevator using a doubly linked list data structure.   
+Key Points - 
+
+- Data Structures
+  - Doubly linked list
+- Object Oriented Programming
+  - Classes
+  - Encapsulation 
+  - Object Storage
